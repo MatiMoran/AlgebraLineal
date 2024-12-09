@@ -1,0 +1,9 @@
+- Numerical Linear Algebra. Lloyd N. Trefethen, David Bau III. SIAM. 1997.
+- Matrix Computations. Gene H. Golub, Charles F. Van Loan. Johns Hopkins Studies in the Mathematical Sciences. 2013.
+- Applied Numerical Linear Algebra. James W. Demmel. SIAM. 1997.
+- Linear Algebra and Its Applications. Gilbert Strang. Cengage Learning. 2006.
+- Numerical Analysis. D.R. Kincaid, E.W. Cheney. Brooks/Cole Publishing Company. 1991.
+- Matrix Analysis. Roger A. Horn, Charles R. Johnson. Cambridge University Press.
+- Análisis Numérico. R. Burden. Cengage Learning, 2017.
+- Álgebra lineal (apunte de la materia). Gabriela Jeronimo, Juan Sabia y Susana Tesauri.
+- Elementos de Cálculo Numérico (apunte de la materia). Ricardo Durán, Silvia Lasalle y Julio Rossi.
